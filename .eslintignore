@@ -1,0 +1,6 @@
+.vscode
+config
+node_modules
+public
+scripts
+src/serviceWorker.js

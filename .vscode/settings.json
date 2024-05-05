@@ -1,0 +1,10 @@
+{
+  "eslint.workingDirectories": ["./src/*"],
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  /* auto-save*/
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true
+}
